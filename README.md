@@ -1,6 +1,6 @@
 # HoverMe
 HoverMe is a simple application built using HTML,CSS and JavaScript
-Please find below atached video
+Please see below atached video
 
 
 
